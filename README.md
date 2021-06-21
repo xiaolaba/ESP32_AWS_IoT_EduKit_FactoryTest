@@ -9,7 +9,7 @@ AWS core2, to burn the testing firmware, no need to compile
 
 
 
-It is not so easy for newbie to  deal with AWS core2 or the ESP32 IDF. I have not be able use Platform to build the Factory firmware, but IDF 4.2 was ok, did not know why, looking for help, https://github.com/m5stack/Core2-for-AWS-IoT-EduKit/issues/63   
+It is not so easy for newbie to  deal with AWS core2 or the ESP32 IDF. I have not be able use PlatformIO to build the Factory firmware, but IDF 4.2 was ok, did not know why, looking for help, https://github.com/m5stack/Core2-for-AWS-IoT-EduKit/issues/63   
 
 
 To make this simple and fast, try other firmware or testing, all code and tools are available and released by Espressife or M5,
