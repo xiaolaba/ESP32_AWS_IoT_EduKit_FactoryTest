@@ -2,7 +2,7 @@
 AWS core2, to burn the testing fireware, no need to compile
 
 
-result,
+### result,  
 ![core2_for_aws/FactoryTest/firmware/FactoryTest.ino.bin1.jpg](core2_for_aws/FactoryTest/firmware/FactoryTest.ino.bin1.jpg)  
 
 
