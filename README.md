@@ -1,7 +1,7 @@
 # ESP32 AWS IoT EduKit FactoryTest
 AWS core 2, to burn the testing firmware, no need to compile, no other software is required.  
 
-esptool.exe is enclosed for convenience, distributed by 樂鑫 & Arduino IDE , it is possible python compiled exe (3MB szie). esptool.exe is only support ESP8266 for make_image, not capable with ESP32, so ESP32 has no solution to release a single image file for flash burning, need each section image for flashing the a single device. the better practices, easer whole chip everytime.
+esptool.exe is enclosed for convenience, distributed by 樂鑫 & Arduino IDE, it is possible python compiled exe (3MB szie). esptool.exe is only support ESP8266 for make_image, not capable with ESP32, so ESP32 has no solution to release a single image file for flash burning, need each section image for flashing a single device. The better practices, easer whole chip everytime if you like.
 
 ### how to, image for COM port finding & to change with burn.bat  
 ![core2_for_aws/FactoryTest/firmware/change_com_bat.JPG](core2_for_aws/FactoryTest/firmware/change_com_bat.JPG)  
